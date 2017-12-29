@@ -1,0 +1,9 @@
+
+Name                 "Electrical Radiator"  
+Author               ItzEdInYourBed  
+Description          "Out with the boilers, in with electricity. This mod adds in electrical radiators. No more needing to place boilers in every cell block. Just hook this bad boy up and profit?!?! It has the same performance as a normal radiator. This bad boy can be yours by clicking that Subscribe button. Subscribe Now!\r\n\r\nElectric Radiator can be found under Objects tab."  
+Version              1.0.1  
+IsTranslation        false  
+FileID               F689772318  
+UpdateTime           1463974432  
+SteamAuthor          A76561198140191052  

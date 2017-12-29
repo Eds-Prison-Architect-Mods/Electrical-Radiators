@@ -1,0 +1,22 @@
+
+BEGIN Object     
+    Name                 ElectricalRadiator
+    Height               1
+    ConstructionTime     3.00000  
+    MoveSpeedFactor      0.500000  
+    Toughness            50.0000
+    Price                -250  
+    NumSlots             0
+    AttachToWall         true  
+    Group                StaticObject  
+    BlockedBy            Wall  
+    BlockedBy            StaticObject  
+    BlockedBy            UtilityStation  
+    Sprite               Radiator  
+    MadeOf               Metal  
+    Properties           StaticObject  
+	Properties           Electrical  
+    Properties           RadiatesHeat  
+    RadiantTemperature   21  
+    RadiantRange         20  
+END

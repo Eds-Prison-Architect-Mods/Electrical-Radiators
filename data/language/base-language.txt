@@ -1,0 +1,3 @@
+
+object_ElectricalRadiator Electrical Radiator
+buildtoolbar_popup_obj_ElectricalRadiator Radiator powered by electricity
